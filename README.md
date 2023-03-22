@@ -1,4 +1,4 @@
-# 1.Cylinder-Calculator
+Cylinder-Calculator
 Program for calculating the volume of the cylinder
 
 Assignment
